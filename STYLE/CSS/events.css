@@ -1,0 +1,34 @@
+.flex-events {
+
+    display: flex;
+    flex-wrap: wrap;
+    
+  
+    
+}
+
+.flex-events > div {
+    background-color: rgb(185, 185, 185);
+    width: 350PX;
+    padding: 10px;
+    color: #D9DCDA;
+}
+
+.event-container {
+
+    margin: 10px;
+}
+
+.event-img {
+   
+    max-width: 330px;
+    max-width: 330px;
+}
+
+.title, .desc {
+
+    color: #545454;
+
+}
+
+ 

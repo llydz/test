@@ -1,0 +1,53 @@
+.boton {
+    background-color: #545454;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+    width: 200px;
+    height: 75px;
+    margin: 10px;
+}
+
+.flex-boton {
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+th {
+
+    border: 3px solid #545454;
+    padding: 40px;
+    font-size: 40px;
+    background-color: #FF944E;
+    color: #D9DCDA;
+  
+    
+
+}
+
+td {
+    border: 3px solid;
+    padding: 50px;
+    font-size: 30px;
+
+}
+
+table {
+    border: 3px solid;
+    width: 100%;
+    text-align: center;
+    color: #545454;
+    border-collapse: collapse;
+
+}
+
+.font {
+
+    
+
+        font-size: 40px;
+    
+}
