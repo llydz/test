@@ -8,6 +8,9 @@
 </div>
 <div class="wrapper">
     <div class="sidebar">
+    <div class="imgcontainer">
+                <img src="logo-whitebg.png" alt="Avatar" class="logo">
+            </div>
         <ul>
             <li><a href="./media.php">MEDIA</a></li>
             <li><a href="./bulletin.php">BULLETIN</a></li>

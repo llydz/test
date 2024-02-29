@@ -42,15 +42,15 @@ label {
 
     display: flex;
     justify-content: center;
-   
+
 
 }
 
 .butun {
 
     margin: 40px;
-   
-    
+
+
 }
 
 
@@ -61,6 +61,12 @@ label {
     border-radius: 10px;
     height: 70px;
     width: 200px;
+    font-size: 25px;
+}
+
+.wiws:hover {
+    background-color: #a15d2f;
+    color: #D9DCDA;
 }
 
 .text {
