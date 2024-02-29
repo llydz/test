@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="./STYLE/CSS/navbar.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="nav">
     <div class="lagayan">
         <h1 style="color: #D9DCDA;">ROTARY</h1>
@@ -15,7 +16,7 @@
         </ul>
         <div class="flex">
 
-            <a href="#" class="right">PROFILE</a>
+            <a href="./profile.php" class="right">PROFILE</a>
 
             <a href="#" class="right">LOGOUT</a>
 

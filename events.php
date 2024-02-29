@@ -20,6 +20,10 @@
 
             <div class="info">
 
+                <div class="flex-boton">
+                    <div><button class="boton">+ ADD NEW</button></div>
+                </div>
+
                 <div class="flex-events">
 
                     <div class="event-container">
@@ -28,12 +32,13 @@
                             <h1 class="title">TITLE</h1>
                         </div>
                         <div>
-                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente blanditiis, placeat
+                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+                                blanditiis, placeat
                                 laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
                                 suscipit vitae numquam quia ullam animi ipsam impedit!</p>
-                                
+
                         </div>
-                    
+
                     </div>
 
                     <div class="event-container">
@@ -42,11 +47,12 @@
                             <h1 class="title">TITLE</h1>
                         </div>
                         <div>
-                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente blanditiis, placeat
+                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+                                blanditiis, placeat
                                 laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
                                 suscipit vitae numquam quia ullam animi ipsam impedit!</p>
                         </div>
-                    
+
                     </div>
 
                     <div class="event-container">
@@ -55,12 +61,13 @@
                             <h1 class="title">TITLE</h1>
                         </div>
                         <div>
-                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente blanditiis, placeat
+                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+                                blanditiis, placeat
                                 laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
                                 suscipit vitae numquam quia ullam animi ipsam impedit!</p>
-                                
+
                         </div>
-                    
+
                     </div>
 
                     <div class="event-container">
@@ -69,26 +76,30 @@
                             <h1 class="title">TITLE</h1>
                         </div>
                         <div>
-                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente blanditiis, placeat
+                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+                                blanditiis, placeat
                                 laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
                                 suscipit vitae numquam quia ullam animi ipsam impedit!</p>
-                                
+
                         </div>
-                    
+
                     </div>
+
                     <div class="event-container">
                         <div><img class="event-img" src="./STYLE/IMAGE/def-img.png" alt="EVENT"></div>
                         <div>
                             <h1 class="title">TITLE</h1>
                         </div>
                         <div>
-                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente blanditiis, placeat
+                            <p class="desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+                                blanditiis, placeat
                                 laudantium id aliquid recusandae ab earum, aliquam qui, perspiciatis reprehenderit sequi
                                 suscipit vitae numquam quia ullam animi ipsam impedit!</p>
-                                
+
                         </div>
-                    
+
                     </div>
+
 
 
                 </div>

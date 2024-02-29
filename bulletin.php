@@ -17,24 +17,26 @@
 
 
                 <div class="flex-boton">
-                    <div><button class="boton">+ ADD NEW</button></div>
-                    <div><button class="boton">DELETE</button></div>
+                    <div><button class="add">+ ADD NEW</button></div>
                 </div>
                 <br><br>
                 <div>
                     <h1 class="font">ROTARY UPCOMING EVENTS</h1>
                 </div>
-
+                
+                <a href="#"></a>
                 <div>
 
                     <table>
                         <tr>
                             <th>EVENT TITLE</th>
                             <th>DATE</th>
+                            <th style="width: 3%;">DELETE</th>
                         </tr>
                         <tr>
                             <td>Christmas Party</td>
                             <td>10/10/10</td>
+                            <td><button class="boton"><i class="fa fa-trash" aria-hidden="true"></i></button></td>
                         </tr>
                         <tr>
                             <td>Valentines Event</td>
@@ -72,7 +74,7 @@
                             <td>halloween party</td>
                             <td>30/30/30</td>
                         </tr>
-                        
+
                     </table>
 
                 </div>
