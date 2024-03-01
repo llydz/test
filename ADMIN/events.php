@@ -15,7 +15,8 @@
     <div class="main_content">
         <div class="header">
             <div>
-                <H1 style="text-align: center;">ROTARY EVENTS</H1>
+                <br>
+                <H1 style="text-align: center; font-size: 50px;">ROTARY EVENTS</H1>
             </div>
 
             <div class="info">

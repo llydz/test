@@ -50,3 +50,8 @@
     height: 75px;
     margin: 10px;
 }
+
+.boton:hover {
+
+    background-color: #888888;
+}
