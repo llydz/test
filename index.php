@@ -28,7 +28,7 @@
             <img class="pic" src="./STYLE/IMAGE/carousel-1.jpg" alt="ROTARY">
             <img class="pic" src="./STYLE/IMAGE/carousel-2.jpg" alt="ROTARY">
             <img class="pic" src="./STYLE/IMAGE/carousel-3.jpg" alt="ROTARY">
-            <img class="pic" src="./STYLE/IMAGE/carousel-4.png" alt="ROTARY">
+            <img class="pic" src="./STYLE/IMAGE/carousel-4.jpg" alt="ROTARY">
         </div>
     </div>
 
