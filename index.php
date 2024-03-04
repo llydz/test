@@ -21,14 +21,15 @@
             <h1>WELCOME TO <font color=#FF944E> ROTARY </font>E-CLUB <br>OF ALL STAR CAMANAVA</h1>
         </div>
 
-
-
-
     </div>
 
-    <div>
-
-        <img class="front-img" src="./STYLE/IMAGE/front.png" alt="ROTARY">
+    <div class="frame">
+        <div class="carousel">
+            <img class="pic" src="./STYLE/IMAGE/carousel-1.jpg" alt="ROTARY">
+            <img class="pic" src="./STYLE/IMAGE/carousel-2.jpg" alt="ROTARY">
+            <img class="pic" src="./STYLE/IMAGE/carousel-3.jpg" alt="ROTARY">
+            <img class="pic" src="./STYLE/IMAGE/carousel-4.png" alt="ROTARY">
+        </div>
     </div>
 
 
@@ -39,9 +40,6 @@
 
         <h3>THE OBJECT OF THE ROTARY IS TO ENCOURAGE AND FOSTER THE IDEAL OF SERVICE AND AS A BASIS OF WORTHY<br>
             ENTEPRISE AND,IN PARTICULAR, TO ENCOURAGE AND FOSTER</h3>
-
-
-
     </div>
 
     <div class="object">
@@ -114,18 +112,8 @@
 
     </div>
 
-
-
-
-
-
-
-
-
 </body>
 
 <?php include 'footer.php'; ?>
-
-
 
 </html>

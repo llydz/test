@@ -11,6 +11,9 @@
 
 body {
     background-color: #D9DCDA;
+    overflow-x: hidden;
+    /* This will hide the horizontal scrollbar */
+    overflow-y: auto;
 }
 
 .wrapper {
@@ -20,8 +23,6 @@ body {
     align-content: flex-start;
     flex-wrap: wrap;
     flex-direction: column;
-
-
 }
 
 .header {
@@ -200,3 +201,4 @@ body {
 .dropdown:hover .dropbtn {
     background-color: #FF944E;
     color: #D9DCDA;
+}
