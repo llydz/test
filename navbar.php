@@ -1,5 +1,8 @@
 <head>
 
+<?php 
+include 'db.php';
+?>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
     <link rel="stylesheet" href="./STYLE/CSS/navbar.css">
@@ -37,9 +40,9 @@
 
                     <div class="navbutton">
                         <a href="./index.php">HOME</a>
-                        <a href="">BULLETIN</a>
-                        <a href="">EVENTS</a>
-                        <a href="">ABOUT US</a>
+                        <a href="#">BULLETIN</a>
+                        <a href="#">EVENTS</a>
+                        <a href="#">ABOUT US</a>
                     </div>
 
 

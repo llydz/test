@@ -1,3 +1,15 @@
+<?php include '../db.php';
+if (!isset($_SESSION['id'])) {
+    ?>
+    <script type="text/javascript">
+        window.alert("You're not logged in. Redirecting...")
+        window.location = "./index.php";
+    </script>
+    <?php
+}
+?>
+
+
 <link rel="stylesheet" href="./STYLE/CSS/navbar.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="nav">
@@ -8,9 +20,9 @@
 </div>
 <div class="wrapper">
     <div class="sidebar">
-    <div class="imgcontainer">
-                <img src="logo-whitebg.png" alt="Avatar" class="logo">
-            </div>
+        <div class="imgcontainer">
+            <img src="logo-whitebg.png" alt="Avatar" class="logo">
+        </div>
         <ul>
             <li><a href="./media.php">MEDIA</a></li>
             <li><a href="./bulletin.php">BULLETIN</a></li>
@@ -21,7 +33,7 @@
 
             <a href="./profile.php" class="right">PROFILE</a>
 
-            <a href="#" class="right">LOGOUT</a>
+            <a href="./logout.php" class="right">LOGOUT</a>
 
         </div>
     </div>

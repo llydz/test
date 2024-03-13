@@ -4,7 +4,7 @@
 <html lang="en">
 
 <head>
-    
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ADMIN PAGE</title>
@@ -14,11 +14,10 @@
             margin-top: 100px;
             display: block;
             margin-left: auto;
-             margin-right: auto;
-             width: 70%;
+            margin-right: auto;
+            width: 70%;
 
         }
-
     </style>
 </head>
 
@@ -30,7 +29,7 @@
 
 
                 <div>
-                    <img class="image2"src="./STYLE/IMAGE/rotary.png" alt="">
+                    <img class="image2" src="./STYLE/IMAGE/rotary.png" alt="">
                 </div>
             </div>
 
